@@ -31,4 +31,7 @@ function print(): void{ //return void
 function getNumber(): number{ //return type at Compile Time 
     return 122345;
 }
+function returnValue() : any{
+    return "123";
+}
 
