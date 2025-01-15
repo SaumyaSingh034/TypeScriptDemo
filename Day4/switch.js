@@ -1,5 +1,5 @@
 var day = "wednesday";
-switch (day) {
+switch (day.toLowerCase) {
     case "sunday":
         console.log("Hello Sunday");
         break;
